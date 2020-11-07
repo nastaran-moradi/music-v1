@@ -1,0 +1,9 @@
+.tak-card{
+    width: 100%;
+    margin-bottom: 30px;
+    transition: 0.3s;
+}
+.tak-card:hover{
+    box-shadow: 0 5px 15px #777;
+    transition: 0.3s;
+}

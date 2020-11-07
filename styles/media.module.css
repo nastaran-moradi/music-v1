@@ -1,0 +1,22 @@
+.tak-main-media{
+    width: 100%;
+    height: 150px;
+    position: absolute;
+    bottom: 0;
+    z-index: 200;
+    border-top: 3px solid #333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.tak-media-btn{
+    margin: 10px;
+    cursor: pointer;
+}
+.pause{
+    display: none;
+}
+.tak-slider-span{
+    width: 100px;
+}

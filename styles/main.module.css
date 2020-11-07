@@ -1,0 +1,14 @@
+.tak-main-bala{
+    width: 100%;
+    height: calc(100vh - 150px);
+    background-color: #aaa;
+    position: absolute;
+    top: 0;
+    z-index: 100;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 30px 15px;
+    overflow: auto;
+}
